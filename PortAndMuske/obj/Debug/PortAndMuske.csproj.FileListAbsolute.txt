@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\bin\Debug\PortAndMuske.exe.config
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\bin\Debug\PortAndMuske.exe
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\bin\Debug\PortAndMuske.pdb
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\obj\Debug\PortAndMuske.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\obj\Debug\PortAndMuske.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\obj\Debug\PortAndMuske.exe
+C:\Users\mrlma\source\repos\PortAndMuske\PortAndMuske\obj\Debug\PortAndMuske.pdb
